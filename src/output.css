@@ -717,4 +717,9 @@ video {
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity));
 }
+
+.hover\:text-grey800:hover {
+  --tw-text-opacity: 1;
+  color: hsl(0 0% 12% / var(--tw-text-opacity));
+}
     
